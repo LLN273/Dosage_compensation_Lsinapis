@@ -6,6 +6,6 @@ Lars Höök, Luis Leal, Venkat Talla, Niclas Backström
  
 ____
 
-Lars Höök & Luis Leal, Uppsala University, Uppsala, Sweden, 2017
+Lars Höök & Luis Leal, Uppsala University, Uppsala, Sweden, 2018-19
 
 _____

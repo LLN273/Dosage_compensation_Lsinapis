@@ -1,4 +1,4 @@
-# ## Pipeline used in:
+## Pipeline used in:
 
 # Multilayered tuning of dosage compensation and Z-chromosome masculinization in the wood white (*Leptidea sinapis*) butterfly
 Lars Höök, Luis Leal, Venkat Talla, Niclas Backström  
